@@ -11,6 +11,8 @@
 BadesenCP1252 is a lightweight pixel-style font that uses the Windows-1252 character set.  
 Learn more: [Wikipedia - Windows-1252](https://en.wikipedia.org/wiki/Windows-1252).  
 
+[View Font Showcase PDF](preview.pdf)
+
 ## Why  
 
 Designed for retro-themed and digital use cases.  
