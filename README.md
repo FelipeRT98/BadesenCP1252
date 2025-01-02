@@ -6,12 +6,12 @@
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=plastic&logo=inkscape&logoColor=%23000000&labelColor=%23FFFFFF)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=plastic&logo=krita&logoColor=%23000000&labelColor=%23FFFFFF)
 
+---
+
 ## What  
 
 BadesenCP1252 is a lightweight pixel-style font that uses the Windows-1252 character set.  
 Learn more: [Wikipedia - Windows-1252](https://en.wikipedia.org/wiki/Windows-1252).  
-
-[View Font Showcase PDF](preview.pdf)
 
 ## Why  
 
@@ -22,3 +22,8 @@ Designed for retro-themed and digital use cases.
 - **Weight**: Regular  
 - **Spacing**: Variable width  
 - **Size**: 42.7 KB (43,768 bytes)  
+
+---
+
+![Font Preview 1](./preview-1.png)
+![Font Preview 2](./preview-2.png)
