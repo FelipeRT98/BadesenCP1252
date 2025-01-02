@@ -1,8 +1,8 @@
 SplineFontDB: 3.2
 FontName: BadesenCP1252
 FullName: BadesenCP1252
-FamilyName: Pixel
-Weight: Book
+FamilyName: BadesenCP1252
+Weight: Regular
 Copyright: Copyright (c) 2024-, Felipe R.T.
 Version: 001.000
 ItalicAngle: 0
@@ -24,7 +24,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1735051068
-ModificationTime: 1735740950
+ModificationTime: 1735820455
 PfmFamily: 65
 TTFWeight: 600
 TTFWidth: 5
